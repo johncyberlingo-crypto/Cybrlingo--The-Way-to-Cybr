@@ -16,7 +16,7 @@ Cybrlingo is not your typical cybersecurity platform. We don’t teach — we gu
 ## 🚀 Website Overview
 
 This repo houses the design and build of our official website:
-- Responsive UI built using **** 
+- Responsive UI built using **Next.js** 
 - Components: Homepage, Hygiene Checker, Cyber Awareness, Threat Intel, GoShield Innovation
 - Integrated with custom JS logic for the **Hygiene Score Checker**
 
