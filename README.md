@@ -25,13 +25,11 @@ This repo houses the design and build of our official website:
 ## 📁 Project Structure
 
 cybrlingo-website/
-│
-├── assets/ # Icons, illustrations, and visual assets
-├── components/ # UI blocks (nav, footer, cards, etc.)
-├── hygiene-checker/ # JS logic for the input/output logic
-├── pages/ # Homepage and inner pages
-├── styles/ # CSS / Tailwind / Framer override files
-└── README.md
+
+assets/ # Icons, illustrations, and visual assets
+components/ # UI blocks (nav, footer, cards, etc.)
+hygiene-checker/ # JS logic for the input/output logic
+pages/ # Homepage and inner pagesstyles/ # CSS / Tailwind / 
 
 
 ## 👥 Contributors
